@@ -1,2 +1,0 @@
-# VGDemo
-Sample Business Website
